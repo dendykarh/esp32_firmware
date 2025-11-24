@@ -1,4 +1,4 @@
 {
   "version": 1.1,
-  "url": "https://github.com/dendykarh/esp32_firmware/releases/latest/download/OTA_ver1.1.bin" 
+  "url": "https://raw.githubusercontent.com/dendykarh/esp32_firmware/main/firmware.bin"
 }
